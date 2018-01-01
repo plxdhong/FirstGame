@@ -18,8 +18,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="第一个图形窗口程序.cpp">
-      <Filter>源文件\练习</Filter>
+    <ClInclude Include="Gra.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Gra.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
